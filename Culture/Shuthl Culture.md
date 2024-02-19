@@ -1,0 +1,14 @@
+The Shuthl culture is one of the two main cultures of the [[Arboreal River Valley]] that do not originate from the valley itself. Shuthl initially came from a completely different continent far south of the valley called [[Riveria]]. It rose to prominence during immigration soon after the [[Teumessian Conflict]]. Today, Shuthl culture can be found anywhere along the [[Arboreal River]], usually interlaced within other cultures.
+
+The common language of the Shuthl critters is also called [[Shuthl]]. The culture is not associated with any religion in particular; they tend to be spiritual, though they range from atheist to religious. 
+## Fashion
+Shuthl clothing is tight and practical, and usually waterproof. Shuthl critters use thick textiles and hides, and make use of many pockets. Bags, especially rump pouches, are popular. Jewelry is rare and usually only worn by certain subcultures, mostly those found in Destora.
+## Food, Art, and Entertainment
+Seafood and baked goods are popular in Shuthl cuisine. Shuthl dishes are usually rather basic and often involve pan-frying.
+Shuthl immigrants introduced the river valley to their foreign arts, especially within basketry, carving, figure-making, metalworking, and painting. Shuthl painting in particular is often highly detailed and on a very small canvas. Shuthl painting tends to be more abstract than their related cultures from Riveria due to influence from other cultures in the region.
+
+Competitive and cooperative sports and games are popular in Shuthl culture. In fact, Shuthl culture is known widely for the board games and card games it introduced to the river valley.
+## Family
+The Shuthl culture is typically monogamous, though the extent of this varies. Usually, Shuthl critters will date for at least 6 calendar years (about 9.2 Earth years) before marrying. Weddings are highly celebratory and involve various family traditions. One common tradition is for the spouses to exchange heirlooms. Another involves having the wedding in a certain type of establishment, such as a church, bar, park, or theater; the couple may buy out the entire venue for the day.
+
+Married or not, the parents of an egg are expected to carry their egg everywhere they go. They may take turns carrying the egg, but leaving the egg alone or with another critter is seen as neglectful. (In most subcultures, however, leaving the egg in an artificial incubator is acceptable as long as both parents are busy working, especially if the parents laid more than one egg.) After hatching, parents continue to carry their hatchling with them typically for 2-3 calendar years (about 3 to 4.5 Earth years), and will strictly regulate their offspring until they marry and leave home at about 10-12 calendar years (about 15 to 18 Earth years) of age.

@@ -1,0 +1,11 @@
+Many religions in the [[Arboreal River Valley]] formed off of a religion that predates even [[Ancient Glyphics]]. It likely spread from one or more nomadic groups before any even settled in the valley. It may have been a single religion prior, or an amalgamation of several. This religion’s original name is nonetheless unknown; in modern day, it is usually referred to as the "Old Religion" or the "Ancient Religion".
+
+It is known that the Ancient Religion had a single god. It was chimerical and unnatural, with an uncountable number of limbs and tails. It had features of every critter: not just antlers, but every kind of antler a critter could have at once. Conversely, some later accounts of the god gave it specifically twelve tails; twelve remains a sacred number even in modern times. The source of this number is debated; it’s possible that it’s linked to the 13 classical moons, excluding either {MOON_D4}, which may have been dark enough for them to miss, or [[{MOON_1}]], since its stationary position in the sky may mean it was either hidden by mountains or simply not considered a moon.
+
+This god, now called the Chimera, would hatch from an enormous egg, its shell creating the mountains of the river valley. It is known to have created the world from the valley, though it is unclear exactly how it did so. According to prophecy, after a period of time, the Chimera would lay another egg on the valley, destroying it and the world as a result, before that egg would hatch and create a new world.
+
+It is believed that the Chimera was only a creator and destroyer; it did not directly interfere with the everyday lives of critters.
+
+In the Ancient Religion, the world outside of the [[Arboreal River Valley]] was endless and evil, while the valley was sacred. The valley was often portrayed as a cradle, or sometimes a throne, for the Chimera’s prophesied egg.
+
+It is well-known that followers of this religion meditated and performed livestock and food sacrifices. Archeologists are unsure of the exact reason. Some monuments still stand from the later times of this religion, especially in the northeast (modern-day [N.F.A.](Northern%20Forest%20Alliance.md)); these monuments appear to be linked to the stars and moon, implying that the Ancient Religion may have venerated the stars, just as modern religions do.

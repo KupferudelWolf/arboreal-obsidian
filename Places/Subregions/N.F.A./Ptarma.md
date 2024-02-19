@@ -1,0 +1,1 @@
+Ptarma, formerly known as Mitiga, is the most populous state in the [[Northern Forest Alliance]]. The capitol building of the N.F.A. resides in this state’s capital.

@@ -1,0 +1,9 @@
+Dhonharo inhabits the land south of [[Siarki]] along the strip of non-mountainous land west of the [[Teumessian Sea]], reaching as far south as the mouth of the sea. Their capital, [[Sidhil]], holds most of the nation’s population.
+
+Nomadic groups near the [[Sidhil River]] founded the nation’s capital soon after Siarki’s guilds were founded. These nomadic groups had a strong [Ridhil culture](Ridhil%20Culture.md) that is still prominent to this day. They were instrumental in protecting the [[Arboreal River Valley]] during the [[Teumessian Conflict]]; they provided Siarki with cheap labor, military forces, and transportation, while Siarki provided food and further support. Even in modern day, Dhonharo views Siarki as a daughter views her mother.
+
+Dhonharo also helped establish the southern garrison of the Teumessian Sea, which kept many invaders outside of the river valley; they still upkeep this garrison to this day.
+
+Critters exiled from Siarki often immigrate to Dhonharo; as they often have little or no wealth, Dhonharo gives them easy work, allowing the immigrants to begin building themselves up. At first, many criminally-inclined critters moved into Dhonharo as a result, which led to a prominence in sheriffs and even militias; yet, crime rate was never a serious threat, as many of these critters, after being exposed to Ridhil culture, sought to join the workforce and make something of themselves.
+
+Dhonharo is very democratic; citizens vote for all political positions as well as service positions. For example, citizens living in a town are given the opportunity to vote on the manager for a planned construction project within the town, the town’s sheriffs, the owner of the post office, the head chef at the local restaurant branch, and so on.

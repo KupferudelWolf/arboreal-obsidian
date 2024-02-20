@@ -1,3 +1,24 @@
+---
+tags:
+  - Character
+---
+> [!infobox|right]
+> 
+> # Naomi
+> ![[naomi.png]]
+> ###### Summary
+> |  |  |
+> | ---: | ---- |
+> | Race | [[skulker]] |
+> | Height | 0.49 m</br>1' 7" |
+> | Weight | 12.98 kg</br>28.62 lb |
+> | Feet | paws |
+> ###### Visible Traits
+> - long whiskers
+> - misplaced whiskers
+> - narrow pupils
+> - prominent whiskers
+
 **Naomi** ([[Yarla]]: **Nayonni**) is an adult [[critter]] residing in the city of [[Siarki]]. She is known for her case of [[Entropic Burst Disorder]].
 
 She is happily married to [[Avoyt]].

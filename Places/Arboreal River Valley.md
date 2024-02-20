@@ -6,7 +6,7 @@ The cliffs of the mountain ranges are steep, with talus formations at each oneâ€
 
 Both mountain ranges have a small strip of land separating them from the Teumessian Sea. The eastern strip is very swampy and damp, while the western strip is more like the rest of the southern region.
 ## Nations
-Critters have organized themselves into six nations within this region: [[Arbor]], [[Siarki]], [[Destora]], the [[Northern Forest Alliance]], and [[Dhonharo]]. Some critters do not live in any nation, however, but instead remain independent. Two additional nations, [[Glyphi]] and [[Handak]], formerly existed within the valley prior to most modern nations.
+Critters have organized themselves into six nations within this region: [[Arbor]], [[Siarki]], [[Destora]], the [[Northern Forest Alliance]], and [[Dhonharo]]. Some critters do not live in any nation, however, but instead remain independent. Three additional nations, [[Glyphi]], [[Handak]], and [[Harleigh]], formerly existed within the valley prior to most modern nations.
 
 When the [[Teumessian Conflict]] began and Destora was founded, all five nations formed the [[Arboreal River Coalition]]. They remain loosely unified in this to ensure progression and safety for all critters in the regions.
 

@@ -1,3 +1,12 @@
+---
+tags:
+  - Character
+---
+> [!infobox|right]
+> 
+> # Kashada
+> ![[kashada.png]]
+
 **Kashada** ([[Yarla]]: **Khashada** or occasionally **Khasda**) is a glass-encased mechanical robot built by a mysterious scientist over a century ago. She is the prophet of [[Kashadism]].
 
 Despite having been made during the [[Steam Age]], Kashada exhibits self-awareness. Little is known about her creator or her inner workings. Even the curious [Siar](Siarki.md) scientists refuse to disassemble her in fear of breaking her.

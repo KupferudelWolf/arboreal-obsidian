@@ -1,3 +1,23 @@
+---
+tags:
+  - Character
+---
+> [!infobox|right]
+> 
+> # Lunathros
+> ![[lunathros.png]]
+> ###### Summary
+> |  |  |
+> | ---: | ---- |
+> | Race | [[skulker]] |
+> | Height | ??? |
+> | Weight | ??? |
+> | Feet | paws |
+> ###### Visible Traits
+> - narrow pupils
+> - prominent whiskers
+> - protruding canines
+
 **Lunathros** ([[Yarla]]: **Yonyerŕos**) is an adult immigrant [[critter]] residing in [[Doveport]]. She is one of [[Aspen]]'s friends.
 
 She speaks [[Yarla]] fairly well, she can speak broken [[Shuthl]] but understand it well, and she can understand some Rudi.

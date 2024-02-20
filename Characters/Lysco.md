@@ -1,3 +1,21 @@
+---
+tags:
+  - Character
+---
+> [!infobox|right]
+> 
+> # Lysco
+> ![[lysco.png]]
+> ###### Summary
+> |  |  |
+> | ---: | ---- |
+> | Race | [[router]] |
+> | Height | ??? |
+> | Weight | ??? |
+> | Feet | paws |
+> ###### Visible Traits
+> - unusual fur
+
 **Lysco** ([[Yarla]]: **Loyisko**; [[Rudi]]: **Pwiso**) is an [[Aurora]]-born singer who tours the region.
 
 Lysco speaks [[Rudi]] and [[Yarla]].

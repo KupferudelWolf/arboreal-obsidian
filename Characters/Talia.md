@@ -1,3 +1,23 @@
+---
+tags:
+  - Character
+---
+> [!infobox|right]
+> 
+> # Talia
+> ![[talia.png]]
+> ###### Summary
+> |  |  |
+> | ---: | ---- |
+> | Race | [[skulker]] |
+> | Height | 1.88 m</br>6' 2" |
+> | Weight | 1,161.41 kg</br>2560.48 lbs |
+> | Feet | paws |
+> ###### Visible Traits
+> - massive tail
+> - prominent whiskers
+
+
 **Talia** ([[Yarla]]: **Chalya**) is a large adult [Yarla](Yarla%20Culture%20.md) celebrity known for her modeling work for various cosmetic and jewelry brands. She also occasionally serves as an ambassador for [[Doveport]].
 
 Talia only speaks [[Yarla]].

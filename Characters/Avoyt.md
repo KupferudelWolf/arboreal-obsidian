@@ -1,3 +1,22 @@
+---
+tags:
+  - Aetherwolf
+  - Character
+---
+> [!infobox|right]
+> 
+> # Avoyt
+> ![[avoyt.png]]
+> ###### Summary
+> |  |  |
+> | ---: | ---- |
+> | Race | [[router]] |
+> | Height | 0.52 m</br>1' 8" |
+> | Weight | 28.3 kg</br>62.2 lbs |
+> | Feet | paws |
+> ###### Visible Traits
+> - horns
+
 **Avoyt** ([[Yarla]]: **Yashot**) is an adult [[critter]] who serves as the ambassador for the [Siar](Siarki.md) government. He is one of the four [aetherwolves](Aetherwolf.md).
 
 He makes frequent appearances in political newsnband occasionalb public speeches on behalf of Siarki. Being essentially Siarki's mouthpiece, Avoyt often takes the heat for rumors and questionable actions that relate to Siarki.

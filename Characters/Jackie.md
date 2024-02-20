@@ -1,3 +1,23 @@
+---
+tags:
+  - Aetherwolf
+  - Character
+---
+> [!infobox|right]
+> 
+> # Jackie
+> ![[jackie.png]]
+> ###### Summary
+> |  |  |
+> | ---: | ---- |
+> | Race | [[router]] |
+> | Height | 1.55 m</br>5' 1" |
+> | Weight | 700.6 kg</br>1,544.6 lbs |
+> | Feet | paws |
+> ###### Visible Traits
+> - mimicry
+> - wings
+
 **Jackie** ([[Yarla]]: **Dakhi**) is a large [Ludi](Ludi Culture) [[critter]] who lives in [[Westcradle]] but travels the northwestern parts of the [[Arboreal River Valley]]. She is one of the four [aetherwolves](Aetherwolf.md).
 
 Jackie is known to speak [[Rudi]] and at least understand [[Yarla]].
@@ -6,7 +26,7 @@ Jackie is a large, imposing [[router]] with incredibly black fur and piercing ye
 
 She has enormous wings capable of lifting her in the air despite her large form. Unlike most critters, these wings are detached from her front legs; rather, they are a third set of appendages, which are attached to her back. Her flight is clumsy due to her size, especially during takeoff.
 
-Jackie only wears a silver earring on her left ear with three circles representing [[Kidishi]]'s three inner moons. She occasionally carries a lantern with her. She sometimes wears bags that she conceals beneath her wings.
+Jackie wears silver earrings, each with three circles representing [[Kidishi]]'s three inner moons. She often carries a lantern with her. She sometimes wears bags that she conceals beneath her wings.
 ## Personality
 Jackie is quiet, stern, wise, and intelligent. She is highly dedicated to her beliefs and goals.
 

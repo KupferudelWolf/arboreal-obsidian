@@ -1,8 +1,31 @@
+---
+tags:
+  - Character
+---
+> [!infobox|right]
+> 
+> # Aspen
+> ![[aspen.png]]
+> ###### Summary
+> |  |  |
+> | ---: | ---- |
+> | Race | [[skulker]] |
+> | Height | ??? |
+> | Weight | ??? |
+> | Feet | talons & paws |
+> ###### Visible Traits
+> - misplaced whiskers
+> - feathers
+> - narrow pupils
+> - pointed tongue
+> - prominent whiskers
+> - scales
+
 **Aspen** ([[Yarla]]: **Shenoŕ** /ʂɘˈɳɤɽ/; [[Zosyl]]: **Znōr** /ʒəˈnʊːɾ/) is an adult [Shuthl](Shuthl%20Culture.md) critter and the main character of the webcomic.
 
 Aspen speaks [[Zosyl]] and [[Yarla]]. She can understand most [[Shuthl]].
 ## Appearance
-She is a [[skulker]] with front talons and hind paws. Her fur is mostly white, with black, light cyan, and tan markings. Her eyes are heterochromic: one is blue and one is tan. Her pupils are narrow. She has large feathers attached to her scaled legs, and she has thick talons. She has one tail that reaches past her ankles. Her tongue is pointed.
+She is a [[skulker]] with front talons and hind paws. Her fur is mostly white, with black, light cyan, and tan markings. Her eyes are yellow, and her pupils are narrow. She has large feathers attached to her scaled legs, and she has thick talons. She has one tail that reaches past her ankles. Her tongue is pointed.
 
 After first moving to the [[Arboreal River Valley]], Aspen wears a lot of tight-fitting [Shuthl](Shuthl%20Culture.md)-style clothes; as the story progresses, she slowly adapts to [Yarla](Yarla%20Culture.md) fashion as she grows more comfortable with her body and with her new home.
 ## Personality

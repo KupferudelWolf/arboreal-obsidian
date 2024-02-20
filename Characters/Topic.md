@@ -1,3 +1,21 @@
+---
+tags:
+  - Character
+---
+> [!infobox|right]
+> 
+> # Topic
+> ![[topic.png]]
+> ###### Summary
+> |  |  |
+> | ---: | ---- |
+> | Race | [[bard]] |
+> | Height | ??? |
+> | Weight | ??? |
+> | Feet | paws |
+> ###### Visible Traits
+> - ???
+
 **Topic** ([[Yarla]]: **Sheŕnes**; [[Rudi]]: **Pwezh**) is a critter from [[Ptarma]] who presently lives in [[Doveport]]. He is one of [[Aspen]]'s friends; he helps her find somewhere to stay outside of the hostel.
 ## Appearance
 Topic is a primarily brown and white [[bard]].

@@ -1,8 +1,29 @@
-**Kiera** ([[Yarla]]: **Khiŕe**) is an adult [[critter]] residing in [[Doveport]]. She is one of [[Aspen]]'s friends.
+---
+tags:
+  - Character
+---
+> [!infobox|right]
+> 
+> # Keira
+> ![[keira.png]]
+> ###### Summary
+> |  |  |
+> | ---: | ---- |
+> | Race | [[skulker]] |
+> | Height | ??? |
+> | Weight | ??? |
+> | Feet | talons & paws |
+> ###### Visible Traits
+> - feathers
+> - narrow pupils
+> - prominent whiskers
+> - scales
 
-Kiera speaks [[Yarla]] and an adequate amount of [[Rudi]]. She also knows how to read some [[Dowti]] and has a lot of interest in [[Glyphi]], despite both of those languages being dead.
+**Keira** ([[Yarla]]: **Khiŕe**) is an adult [[critter]] residing in [[Doveport]]. She is one of [[Aspen]]'s friends.
+
+Keira speaks [[Yarla]] and an adequate amount of [[Rudi]]. She also knows how to read some [[Dowti]] and has a lot of interest in [[Glyphi]], despite both of those languages being dead.
 ## Appearance
-Kiera is a medium-sized [[skulker]] with an intricate brown, grey, and orange pelt. She has talons in the front and paws in the back. Her feathers are a very dark but iridescent ultraviolet-black. She is fairly fit. Her talons are somewhat thick. She has large feathers attached to her mostly furry front legs, long feathers on her rump, and small feathers down the top of her tail. Her eyes are yellow and have narrow pupils. She has prominent whiskers.
+Keira is a medium-sized [[skulker]] with an intricate brown, grey, and orange pelt. She has talons in the front and paws in the back. Her feathers are a very dark but iridescent ultraviolet-black. She is fairly fit. Her talons are somewhat thick. She has large feathers attached to her mostly furry front legs, long feathers on her rump, and small feathers down the top of her tail. Her eyes are yellow and have narrow pupils. She has prominent whiskers.
 
 She doesn't wear much beyond the occasional necklace or bag, though she later starts wearing [Ruti](Ruti%20Culture.md) cloaks.
 ## Personality
@@ -12,6 +33,6 @@ In debate, she hates being wrong and will defend herself or make excuses when so
 
 Keira's biggest dream is to be accepted into the prestigious [[University Siarki]] to study mathematics (though this later changes to archeology). As a result, she somewhat idolizes [[Siarki]] and occasionally defends it against criticism. Though she is clearly of [[Yarla culture]], she likes to act like a [Ruti](Ruti%20Culture.md) critter. Whether she genuinely loves Siarki or only does this to better her chances of admission is unclear. She does not practice [[Kashadism]], however, and rarely speaks on its behalf.
 
-Kiera enjoys sports, especially climbing.
+Keira enjoys sports, especially climbing.
 ## Backstory
-Kiera was born in Doveport. She fell in love with science and math at a young age.
+Keira was born in Doveport. She fell in love with science and math at a young age.

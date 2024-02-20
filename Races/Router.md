@@ -1,0 +1,7 @@
+**Router** ([[Yarla]]: **rochor**) describes a race of [critters](Critter.md) who resemble earthly wolves. They are partially associated with [[Ludi culture]], though routers can be found in any culture. The [[Ruti culture]] was named directly after this race, though critters of other races certainly fit within this culture.
+## Appearance
+Routers are typically rather stocky, seeming large for their size. They tend to be larger in general, in fact. They usually have relatively plain pelts with two contrasting shades, sometimes with a third accent color. They always have paws on their front limbs.
+
+Routers with hind paws in addition to prominent whiskers, talons, multiple tails, or a massive tail are invariably considered [skulkers](Skulker), though some, especially those of [Ruti](Ruti%20Culture.md) or [[Ludi culture]], denounce this and still identify as a router. Thus, the line between a skulker and a router is blurry.
+## Perception
+Because if [[Siarki]] and its prominent [[Ruti culture]], critters tend to view routers as serious, logic-driven, intelligent, or egotistical. Society expects routers to be model students and pressures them to seek education in more conceptual fields, such as in mathematics or science.

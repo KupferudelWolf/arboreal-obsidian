@@ -1,3 +1,11 @@
+---
+tags:
+  - Destora
+---
+> [!caption|right]
+> ![[flag-destora.png]]
+> Flag of Destora
+
 The city-state of Destora covers the entire middle area of the [[Arboreal River Valley]].
 
 The city itself is situated on a particularly broad bend of the [[Arboreal River]]. It was founded as a trading post between the [[Northern Forest Alliance]] and the southern nations. Destora is an ally of [[Arbor]] but an adversary of [[Siarki]].

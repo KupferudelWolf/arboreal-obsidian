@@ -1,3 +1,11 @@
+---
+tags:
+  - Dhonharo
+---
+> [!caption|right]
+> ![[flag-dhonharo.png]]
+> Flag of Dhonharo
+
 Dhonharo inhabits the land south of [[Siarki]] along the strip of non-mountainous land west of the [[Teumessian Sea]], reaching as far south as the mouth of the sea. Their capital, [[Sidhil]], holds most of the nation’s population.
 ## History
 The city of Sidhil began as a settlement for nomadic groups moving north into the [[Arboreal River Valley]]. These nomadic groups had a strong [Ridhil culture](Ridhil%20Culture.md) that is still prominent to this day.

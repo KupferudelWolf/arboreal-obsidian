@@ -1,3 +1,11 @@
+---
+tags:
+  - Siarki
+---
+> [!caption|right]
+> ![[flag-siarki.png]]
+> Flag of Siarki
+
 The society of Siarki consists of its eponymous capital and two nearby cities: [[{NORTH_SIARKI}]] and [[Ikishi]]. Siarki is a strong ally of [[Arbor]] and [[Dhonharo]]. Yet, the Siar government greatly resents Arbor’s other close ally, [[Destora]].
 
 Siarki is known in part for the [[Light Wall]]: a large concrete wall with stripes of illuminated glass encompassing the northern, southern, and eastern parts of the city. It is also known for [[University Siarki]]. The nation also owns [[New Hope Island]] in conjunction with Arbor.

@@ -1,6 +1,8 @@
 **Jackie** ([[Yarla]]: **Dakhi**) is a large [Ludi](Ludi Culture) [[critter]] who lives in [[Westcradle]] but travels the northwestern parts of the [[Arboreal River Valley]]. She is one of the four [aetherwolves](Aetherwolf.md).
+
+Jackie is known to speak [[Rudi]] and at least understand [[Yarla]].
 ## Appearance
-Jackie is a large, imposing [[router]] with incredibly black fur and piercing yellow eyes. She has black feathers on her head and neck, as well as white and silver flowers growing from her neck.
+Jackie is a large, imposing [[router]] with incredibly black fur and piercing yellow eyes. She has black feathers on her head and neck, as well as white and silver flowers growing from her neck. She has four paws.
 
 She has enormous wings capable of lifting her in the air despite her large form. Unlike most critters, these wings are detached from her front legs; rather, they are a third set of appendages, which are attached to her back. Her flight is clumsy due to her size, especially during takeoff.
 

@@ -1,4 +1,4 @@
-In some states of the [[Northern Forest Alliance]], wood serves as the basis for economic value rather than vanadium (like [[Skil]]). The currencies operate in one of two ways, depending on the state: by the amount of physical wood in storage (commodity), or by the amount of labor produced through woodcutting.
+In some states of the [[Northern Forest Alliance]], wood serves as the basis for economic value rather than vanadium (like [[skil]]). The currencies operate in one of two ways, depending on the state: by the amount of physical wood in storage (commodity), or by the amount of labor produced through woodcutting.
 
 Wood currencies are very seldom directly traded. Rather, they are often used to record barter transactions to determine fair trade. The currency is still a currency, with minted coins; critters just prefer barter, and local governments are only concerned with recording, not mandating, intrinsic value. These currencies are highly volatile as a result, with conversion rates between each other or to skil in extreme flux. [[Ptarma]] as a result handles all skil transactions, mostly for exporting resources.
 

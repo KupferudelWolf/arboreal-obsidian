@@ -1,6 +1,8 @@
 [Critters](Critter.md) are an extremely diverse species. One critter may have antlers, another may have three tails, and another may have mushrooms growing on their legs.
 
-Below lists various **genetic traits** that critters may exhibit. Even if certain genes are active, a critter may not exhibit its associated traits; genetic traits appear to come and go as a critter age. For example, a critter born with one tail may grow three more even years after they reach adulthood. The only exception to this are feet; a critter born with four hooves, for example, will always have four hooves.
+Below lists various **genetic traits** that critters may exhibit. Even if certain genes are active, a critter may not exhibit its associated traits; genetic traits appear to come and go as a critter ages. For example, a critter born with one tail may grow three more even years after they reach adulthood. The only exception to this are feet; a critter born with four hooves, for example, will always have four hooves.
+## Size
+The size of a critter (measured to the shoulder) ranges in height from 0.1 meters (0.5 ft) to over 9 meters (30 ft), and in weight from 1 kg (2 lbs.) to over 9,000 kg (nearly 10 tons). On average, however, a critter is much closer to 0.5 m (1.6 ft.) to 1.5 m (4.9 ft.) tall and 27 kg (60 lbs.) to 243 kg (536 lbs.) in weight. These weights are as they are on [[Kidishi]], which has about 1.13 times the surface gravity of Earth; on Earth, they would weigh on average from 24 kg (53 lbs.) to 216 kg (476 lbs.).
 ## Fur & Skin
 All critters have fur of any length. Fur length may be consistent or may naturally vary across the body. (Critters can further trim their fur to their desire.) Fur color and patterns can be pretty much anything and often changes over time at varying rates.
 

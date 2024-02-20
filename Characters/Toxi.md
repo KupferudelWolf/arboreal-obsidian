@@ -1,6 +1,6 @@
 **Toxi** ([[Yarla]]: **Doski**) is an adult [[critter]] who serves as the mayor of [[Doveport]].
 
-Toxi speaks [[Rudi]], [[Yarla]], and [[Shuthl]]. She is trying to learn other languages to facilitate communication with nations outside of the [[Arboreal River Valley]].
+Toxi speaks [[Rudi]], [[Yarla]], and [[Shuthl]]. She is currently learning other languages to facilitate communication with nations outside of the [[Arboreal River Valley]].
 ## Appearance
 Toxi is a medium-sized [[router]] with front paws and hind hooves. She is ultraviolet and white, with chevron-like markings on her forehead. Her eyes are a  bluish-ultraviolet. In the webcomic, her eyes and markings appear as a cool grey.
 

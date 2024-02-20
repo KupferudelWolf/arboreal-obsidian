@@ -1,7 +1,7 @@
 ## Key
 Abbreviations:
 - Yr$_K$: Arboreal calendar year.
-- YA$_E$: Earth years before the webcomic's setting.
+- YA$_E$: Earth-years before the webcomic's setting.
 - *Italics*: Estimated year (Yr$_K$ rounded to the nearest 6).
 ## Languages
 |Yr$_K$|YA$_E$|Event|
@@ -79,7 +79,7 @@ Abbreviations:
 |???|???|[[Tsitsuyanism]] becomes a religion.|
 |525|386|The city of [[Pinewood]] is founded. Arbor officially becomes a nation.|
 |541|362|[[Laelapsis]] is founded.|
-|562|330|A trade depot is settled in modernb-day [[Destora]].|
+|562|330|A trade depot is settled in modern-day [[Destora]].|
 ### The Steam Age
 |Yr$_K$|YA$_E$|Event|
 |:--:|:--:|:--|

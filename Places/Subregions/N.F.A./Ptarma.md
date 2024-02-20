@@ -1,1 +1,1 @@
-Ptarma, formerly known as Mitiga, is the most populous state in the [[Northern Forest Alliance]]. The capitol building of the N.F.A. resides in this state, as well as the confederacy's national bank for [[Skil]] exchange.
+Ptarma, formerly known as Mitiga, is the most populous state in the [[Northern Forest Alliance]]. The capitol building of the N.F.A. resides in this state, as well as the confederacy's national bank for [[skil]] exchange.

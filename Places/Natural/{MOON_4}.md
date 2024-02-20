@@ -1,3 +1,0 @@
-{MOON_4} is the fourth major moon in the [Kidish](Kidishi.md) system. It is the first of the outer moons, which are far larger and more spaced out than the inner three moons.
-
-{MOON_4} is a highly metallic moon, enough to appear to shine. It is thus a symbol of wealth. The poles appear whiter, as if the moon has ice caps; in reality, this brightness comes from the more silica surface toward each pole. Why silica has accumulated at the poles is unknown.

@@ -1,1 +1,0 @@
-These cults, prominent especially around the [[Pinewood Channel]], worship the [Aetherian](Aetherianism.md) goddess Skiln-Kha alone; they reject the other eleven Aetherian gods.
